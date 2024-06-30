@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842830562181",
+    "project_id": "messages-381ba",
+    "storage_bucket": "messages-381ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842830562181:android:579732c1e3a6928d1ebaec",
+        "android_client_info": {
+          "package_name": "com.example.message"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg7rfz3pD5coiVuVCCfpB3V7Hmsh5Ac7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
